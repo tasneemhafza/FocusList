@@ -1,4 +1,20 @@
-# FocusList
-FocusList is a complete To-Do List Application that helps you track your daily tasks. 
-You can add, edit and delete the any in this application. 
-It shows the date and time of all To-do and arrange them in old-to-new order.
+# 📝 FocusList
+
+**FocusList** is a simple and effective To-Do app that helps you stay focused and organized.  
+You can add, edit, and delete tasks — with each to-do tagged with its creation **date and time**. Tasks are automatically sorted from **oldest to newest**.
+
+## 🔧 Features
+
+- ✅ Add a new task
+- 🖊️ Edit existing tasks
+- ❌ Delete tasks
+- 🕓 Automatically records date & time of task creation
+- 📋 Tasks listed in chronological order (oldest first)
+- 💾 Data persists even after closing the app
+
+## 🛠️ Built With
+
+- **Language**: Kotlin
+- **UI**: Jetpack Compose *(or XML Layouts — update based on your implementation)*
+- **Database**: Room Database
+- **Architecture**: MVVM (Model-View-ViewModel)
